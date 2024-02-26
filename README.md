@@ -1,4 +1,4 @@
-# Sistema de Gestión de Empleados
+# API de Gestión de Empleados
 
 Este es un sistema de gestión de empleados implementado en Node.js utilizando el framework Express y el paquete 'azle' para la creación de un servidor.
 
