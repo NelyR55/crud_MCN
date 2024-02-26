@@ -92,3 +92,8 @@ dfx canister id backend
 - Este servidor utiliza el framework express.
 - Asegúrate de enviar los datos en el formato correcto al hacer solicitudes POST y PUT.
 - Algunos campos como ID y teléfono son únicos para cada empleado y deben ser manejados correctamente para evitar duplicados.# crud_MCN
+## Contribuidores
+
+- [@MariaVillan](https://github.com/MariaVillan)
+- [@Crisluna13](https://github.com/Crisluna13)
+
